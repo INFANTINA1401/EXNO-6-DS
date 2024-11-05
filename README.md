@@ -1,5 +1,7 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
-
+# Name: INFANTINA MARIA L
+# Reg: 212223100013
+# Dep: CSE [CYBER SECURITY]
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
